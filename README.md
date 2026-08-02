@@ -1,4 +1,4 @@
-TrackRite
+### TrackRite
 
 A calorie & macro tracking backend, built as a learning project in Rust (Axum + SQLx + Postgres). This repo currently covers user authentication; food logging, diary tracking, and a companion FastAPI insights service are planned next (see Roadmap).
 
